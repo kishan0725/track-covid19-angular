@@ -2,7 +2,7 @@
 
 An application that tracks the status of coronavirus all over the world - using Angular 10, Material UI, ng2-charts and chart.js and deployed in AWS S3.
 
-**Note:** The application is still under developement. The alignment of this application might not be compatible with your device. I'm working on the responsive version of this application and I'll release it soon. Sorry for the inconveniences.
+**Note:** The application is still under development. The alignment of this application might not be compatible with your device. I'm working on the responsive version of this application and I'll release it soon. Sorry for the inconveniences.
 
 Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 
