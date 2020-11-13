@@ -18,7 +18,7 @@ Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 
 ![image](https://user-images.githubusercontent.com/36665975/98823492-29af2c00-2458-11eb-9d14-7b442d87c1b9.png)
 
-## Mobile View
+### Mobile View
 
 ![image](https://user-images.githubusercontent.com/36665975/99043460-4b252a80-25b4-11eb-8f19-8f47e6573dd9.png)
 ![image](https://user-images.githubusercontent.com/36665975/99043566-6db74380-25b4-11eb-8da0-9a58e2790db0.png)
