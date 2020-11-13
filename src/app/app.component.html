@@ -1,4 +1,4 @@
-<div class="container" *ngIf="!data.confirmed.value">
+<div class="container" [ngClass]="{'loading': !data.confirmed.value}" *ngIf="!data.confirmed.value">
     <mat-spinner></mat-spinner>
 </div>
 <div class="container" [ngClass]="{'dark': darkMode}">
@@ -6,4 +6,5 @@
     <app-card [darkTheme]="darkMode"></app-card>
     <app-country-picker [darkTheme]="darkMode"></app-country-picker>
     <app-chart></app-chart>
+    <div class="footer" [ngClass]="{'dark-footer': darkMode}">Made with <span> &hearts; </span> by Kishan</div>
 </div>
