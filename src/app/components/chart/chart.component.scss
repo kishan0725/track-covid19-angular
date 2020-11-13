@@ -8,3 +8,10 @@ canvas {
         height: 200px !important;
     }
 }
+
+@media (min-width:520px) {
+    canvas {
+        width: 700px !important;
+        height: 400px !important;
+    }
+}
