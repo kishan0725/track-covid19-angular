@@ -20,13 +20,13 @@ Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 
 ### Mobile View
 
-![image](https://user-images.githubusercontent.com/36665975/99043460-4b252a80-25b4-11eb-8f19-8f47e6573dd9.png)
-![image](https://user-images.githubusercontent.com/36665975/99043566-6db74380-25b4-11eb-8da0-9a58e2790db0.png)
+![image](https://user-images.githubusercontent.com/36665975/99064210-a31b5b80-25cb-11eb-844a-7e83244f50e0.png)
+![image](https://user-images.githubusercontent.com/36665975/99064233-add5f080-25cb-11eb-8f2f-63f5418114cb.png)
 
 **With Dark Theme enabled**
 
-![image](https://user-images.githubusercontent.com/36665975/99043210-05686200-25b4-11eb-82d0-2f84cf88b289.png)
-![image](https://user-images.githubusercontent.com/36665975/99043391-321c7980-25b4-11eb-9887-f35a56930f32.png)
+![image](https://user-images.githubusercontent.com/36665975/99064268-bc240c80-25cb-11eb-8435-690889ef7b60.png)
+![image](https://user-images.githubusercontent.com/36665975/99064287-c6dea180-25cb-11eb-80b1-2f804bfa803c.png)
 
 
 
