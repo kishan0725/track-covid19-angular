@@ -7,16 +7,16 @@ Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 ## Screenshots
 
 - Line Chart for Global Status
-![image](https://user-images.githubusercontent.com/36665975/98823333-f5d40680-2457-11eb-8166-4070b1b4ed6e.png)
+![image](https://user-images.githubusercontent.com/36665975/99065401-5a64a200-25cd-11eb-8aa4-59e7329d27ab.png)
 
 - Bar Chart for Country Status
-![image](https://user-images.githubusercontent.com/36665975/98823543-40ee1980-2458-11eb-91b3-fe1b331844de.png)
+![image](https://user-images.githubusercontent.com/36665975/99065472-749e8000-25cd-11eb-9489-e3d47828f315.png)
 
 **With Dark Theme enabled**
 
-![image](https://user-images.githubusercontent.com/36665975/98823417-1308d500-2458-11eb-8fdd-353d824a40e8.png)
+![image](https://user-images.githubusercontent.com/36665975/99065515-81bb6f00-25cd-11eb-8620-e72ccfc28d88.png)
 
-![image](https://user-images.githubusercontent.com/36665975/98823492-29af2c00-2458-11eb-9d14-7b442d87c1b9.png)
+![image](https://user-images.githubusercontent.com/36665975/99065557-926be500-25cd-11eb-8080-602662da912b.png)
 
 ### Mobile View
 
