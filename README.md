@@ -18,6 +18,17 @@ Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 
 ![image](https://user-images.githubusercontent.com/36665975/98823492-29af2c00-2458-11eb-9d14-7b442d87c1b9.png)
 
+## Mobile View
+
+![image](https://user-images.githubusercontent.com/36665975/99043460-4b252a80-25b4-11eb-8f19-8f47e6573dd9.png)
+![image](https://user-images.githubusercontent.com/36665975/99043566-6db74380-25b4-11eb-8da0-9a58e2790db0.png)
+
+**With Dark Theme enabled**
+
+![image](https://user-images.githubusercontent.com/36665975/99043210-05686200-25b4-11eb-82d0-2f84cf88b289.png)
+![image](https://user-images.githubusercontent.com/36665975/99043391-321c7980-25b4-11eb-9887-f35a56930f32.png)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
