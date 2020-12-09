@@ -14,9 +14,9 @@ Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 
 **With Dark Theme enabled**
 
-![image](https://user-images.githubusercontent.com/36665975/99065515-81bb6f00-25cd-11eb-8620-e72ccfc28d88.png)
+![image](https://user-images.githubusercontent.com/36665975/101586269-955cc880-3a07-11eb-8c81-eb7367e2afe4.png)
 
-![image](https://user-images.githubusercontent.com/36665975/99065557-926be500-25cd-11eb-8080-602662da912b.png)
+![image](https://user-images.githubusercontent.com/36665975/101586405-dc4abe00-3a07-11eb-85bb-f17ef0bf7e21.png)
 
 ### Mobile View
 
@@ -25,8 +25,8 @@ Live Demo: http://track-covid19.s3-website-us-east-1.amazonaws.com/
 
 **With Dark Theme enabled**
 
-![image](https://user-images.githubusercontent.com/36665975/99064268-bc240c80-25cb-11eb-8435-690889ef7b60.png)
-![image](https://user-images.githubusercontent.com/36665975/99064287-c6dea180-25cb-11eb-80b1-2f804bfa803c.png)
+![image](https://user-images.githubusercontent.com/36665975/101586481-08fed580-3a08-11eb-9bdd-f833829d4d05.png)
+![image](https://user-images.githubusercontent.com/36665975/101586506-14520100-3a08-11eb-9696-b4ca1b0379e5.png)
 
 
 
