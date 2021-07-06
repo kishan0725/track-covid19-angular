@@ -1,4 +1,4 @@
-<div *ngIf="dataSource.confirmed.value">
+<div *ngIf="dataSource?.confirmed.value">
     <canvas baseChart width="700" height="400" *ngIf="chartType == 'bar' && selectedCountry !== 'Global && barChartReady'"
     [datasets]="barChartData"
     [labels]="barChartLabels"
