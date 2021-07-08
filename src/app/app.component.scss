@@ -7,6 +7,7 @@
     background: #fff; //light
     overflow-y: hidden;
     min-height: 100vh;
+    transition: all 0.5s linear 0s;
 }
 .title {
     color: whitesmoke;
@@ -17,6 +18,7 @@
 
 .dark {
     background: #1e1e1e; // dark
+    transition: all 0.5s linear 0s;
     mat-slide-toggle {
         color: whitesmoke;
     }
@@ -37,6 +39,7 @@ mat-slide-toggle {
 .footer {
     padding: 2%;
     font-size: 15px;
+    transition: all 0.5s linear 0s;
     span {
         font-size:150%;
         color:red;
@@ -45,10 +48,11 @@ mat-slide-toggle {
 
 .dark-footer {
     color: whitesmoke;
+    transition: all 0.5s linear 0s;
 }
 
 .github-corner:hover .octo-arm { 
-    animation:octocat-wave 560ms ease-in-out
+    animation:octocat-wave 560ms ease-in-out;
 }
 
 @keyframes octocat-wave {
@@ -70,11 +74,13 @@ svg {
     top: 0;
     border: 0;
     right: 0;
+    transition: all 0.5s linear 0s;
 }
 .dark-svg {
     svg {
         fill: rgba(105,240,174,.54);
         color: #1e1e1e;
+        transition: all 0.5s linear 0s;
     }
 }
 
